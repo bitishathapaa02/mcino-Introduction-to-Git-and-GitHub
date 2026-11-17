@@ -1,3 +1,3 @@
-PS C:\Users\bitis\mcino-Introduction-to-Git-and-GitHub> git branch -avv bug-fix-typo 6192034 [origin/bug-fix-typo] Fix typo in README
+PS C:\Users\bitis\mcino-Introduction-to-Git-and-GitHub> git branch -avv
 
-main 6192034 [origin/main: ahead 1] Fix typo in README remotes/origin/HEAD -> origin/main remotes/origin/bug-fix-typo 6192034 Fix typo in README remotes/origin/main 06911bc Add command to fetch GitHub repo details
+bug-fix-revert 6192034 [origin/bug-fix-revert] Fix typo in README bug-fix-typo 6192034 [origin/bug-fix-typo] Fix typo in README main 6192034 [origin/main: ahead 1, behind 2] Fix typo in README remotes/origin/HEAD -> origin/main remotes/origin/bug-fix-revert 6192034 Fix typo in README remotes/origin/bug-fix-typo 6192034 Fix typo in README remotes/origin/main 84891d7 Add branch information for bug-fix-typo
